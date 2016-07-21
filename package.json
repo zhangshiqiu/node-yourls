@@ -1,6 +1,6 @@
 {
   "name": "node-yourls",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A yourls API library for Node.JS",
   "tags": [
     "url",
@@ -30,4 +30,3 @@
     "url": "https://github.com/nandarustam/node-yourls/issues"
   }
 }
-
