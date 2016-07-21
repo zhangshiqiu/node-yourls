@@ -1,0 +1,38 @@
+{
+  "name": "node-yourls",
+  "description": "A yourls API library for Node.JS",
+  "tags": [
+    "url",
+    "yourls",
+    "shortner",
+    "util",
+    "yourlsjs"
+  ],
+  "version": "1.0.3",
+  "author": "Rasmunandar Rustam <nandar.rustam@gmail.com>",
+  "contributors": [
+    "Gabriel Preston <gpreston@gmail.com>",
+    "Robert Michalski <robmi87@gmail.com>"
+  ],
+  "main": "./yourls",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nandarustam/node-yourls.git"
+  },
+  "scripts": {
+    "test": "~/bin/nodeunit test"
+  },
+  "files": [],
+  "_defaultsLoaded": true,
+  "maintainers": [
+    "Rasmunandar Rustam <nandar.rustam@gmail.com>"
+  ],
+  "_from": "yourls@*",
+  "homepage": "https://github.com/nandarustam/node-yourls#readme",
+  "keywords": [
+    "YOURLS",
+    "url",
+    "shortner"
+  ],
+  "license": "ISC"
+}
